@@ -39,5 +39,8 @@ An Arduino-based line following robot using IR sensors and an L298N motor driver
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-**Md Shaifulla Zibon**
+## 🧠 Author  
+**Md Shaifulla Zibon**  
+Electrical and Electronics Engineering  
+European University of Bangladesh  
+GitHub: [@zibontaroka](https://github.com/zibontaroka)
